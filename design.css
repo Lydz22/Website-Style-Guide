@@ -1,0 +1,81 @@
+body {
+    font-family: Ubuntu, monospace;
+}
+.container {
+    border-style: solid;
+    border-color: black;
+    border-width: medium;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+.color-container {
+    width: 100%;
+}
+.color-panel {
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    display: inline-block;
+    margin: 30px auto;
+    margin-right: 10px;
+    width: 30%;
+}
+
+.purple-haze {
+    background-color: #8c00ff
+}
+
+.sea-green {
+    background-color: #00ff9d
+}
+.fire-red {
+    background-color: #f00;
+}
+
+.mellow-yellow {
+    background-color: #ff0;
+}
+
+.font-panel {
+    display: inline-block;
+    margin-right: 100px;
+}
+.font-name {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.ubuntu {
+    font-family: ubuntu, sans-serif;
+}
+.rubik {
+    font-family: rubik, monospace;
+}
+.kanit {
+    font-family: kanit, sans-serif;
+}
+
+.heading {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.heading-two {
+    font-size: 18px;
+}
+
+.paragraph {
+    font-size: 14px;
+}
